@@ -1,6 +1,7 @@
 # GraphSearchAlgorithm
 This is a school project about graph (problem)searching in AI, containing Depth First Search, Breath First Search, Uniform Cost Search, A-star Search, Greedy Best First Search
-Note: Graphical alogrithm presentation source code is not mine
+
+Note: Graphical alogrithm presentation source code is not mine, only 'SearchAlgorithm.py' is mine
 
 *program's command line argument*: Main.py \<test-case-file-path\> \<algorithm\> \<time-delay\>(optional)
   
