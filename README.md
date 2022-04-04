@@ -8,10 +8,10 @@ Note: Graphical alogrithm presentation source code is not mine
   
 + \<test-case-file-path\>: any text base input file, format as:
   
-  \'''
+  ```
   <start-node> <end-node>
   <weighted-adjacency-matrix-of-the-graph>
-  \'''
+  ```
   example is in file is 'input.txt' and 'input2.txt'
     
 + All searching algorithm return a first in first out type list of vistied node and path node
